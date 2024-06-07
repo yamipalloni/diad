@@ -184,22 +184,6 @@ $size4: 50px;
     padding-bottom: $size3;
 }
 
-.fuente-nut{
-    animation: zoomIn 10s ease-in-out infinite;
-}
-
-@keyframes zoomIn {
-    0% {
-    transform: scale(1);
-    }
-    50% {
-    transform: scale(1.05);
-    }
-    100% {
-    transform: scale(1);
-    }
-}
-
 // sección 4 - deficiencias
 .sec4{
     background-color: $color1;

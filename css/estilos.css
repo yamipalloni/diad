@@ -127,21 +127,6 @@
   padding-bottom: 20px;
 }
 
-.fuente-nut {
-  animation: zoomIn 10s ease-in-out infinite;
-}
-
-@keyframes zoomIn {
-  0% {
-    transform: scale(1);
-  }
-  50% {
-    transform: scale(1.05);
-  }
-  100% {
-    transform: scale(1);
-  }
-}
 .sec4 {
   background-color: #F38F1A;
   padding: 20px;
