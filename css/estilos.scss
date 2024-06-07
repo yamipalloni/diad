@@ -185,7 +185,7 @@ $size4: 50px;
 }
 
 .fuente-nut{
-    animation: zoomIn 20s ease-in-out infinite;
+    animation: zoomIn 10s ease-in-out infinite;
 }
 
 @keyframes zoomIn {
@@ -193,7 +193,7 @@ $size4: 50px;
     transform: scale(1);
     }
     50% {
-    transform: scale(1);
+    transform: scale(1.05);
     }
     100% {
     transform: scale(1);
